@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kigenbrandon
-- 👀 I’m interested in web development
+- 👀 I’m a fullstack developer.
 - I'm also a tech enthusiast.
 - 📫 reach me on kigenbrandon@proton.me
 
