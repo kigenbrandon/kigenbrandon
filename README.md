@@ -80,10 +80,7 @@ Welcome to my GitHub! I'm KigenBrandon, a passionate full-stack developer profic
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/kigenbrandon](https://www.linkedin.com/in/kigenbrandon)
-- **Twitter**: [@KigenBrandon](https://twitter.com/KigenBrandon)
 - **Email**: kigenbrandon@example.com
-- **Personal Blog**: [kigenbrandon.dev](https://kigenbrandon.dev)
 
 ---
 
