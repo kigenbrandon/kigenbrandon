@@ -52,7 +52,7 @@ Welcome to my GitHub! I'm **KigenBrandon**, a passionate full-stack developer de
 🔹 **Tech Stack**: React, Node.js  
 🔹 **Highlights**: Media management platform built with scalability and responsiveness in mind.
 
-Explore more of my featured work on [my portfolio website](kigenbrandon.lovable.app)!
+Explore more of my featured work on [my portfolio website](https://kigenbrandon.lovable.app)!
 
 ---
 
@@ -82,7 +82,7 @@ Explore more of my featured work on [my portfolio website](kigenbrandon.lovable.
 
 ## 📫 Let's Connect
 - **Email**: kigenbrandon@example.com
-- **Portfolio**: [https:/kigenbrandon.lovable.app](kigenbrandon.lovable.app)
+- **Portfolio**: [https:/kigenbrandon.lovable.app](https://kigenbrandon.lovable.app)
 
 Feel free to reach out for collaboration, freelancing opportunities, or just a good tech chat!
 
